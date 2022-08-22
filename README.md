@@ -26,3 +26,10 @@ Select best set of design parameters for a CNN based multi-class classifier by t
 Once best set of parameters identified, translate the model to the CIFAR-10 dataset.
 ### Results:
 Training accuracy: 96.11% <br> Testing accuracy: 92.39%
+## Dependencies:
+the code is tested in TensorFlow 1.7
+## Description of Python scripts:
+`part_1_SVM_classification.ipynb` notebook implements all the tasks in part 1 with proper comments step-wise.
+`part_2_CNN_classification.ipynb` notebook implements the requirements in part 2.
+## Contact:
+ The code is meant for showcasing course project. In case of any difficulty, please open an issue or directly email me at mohammadwahidul-alam@uiowa.edu
